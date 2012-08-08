@@ -1,1 +1,2 @@
+this part is added in "gittest1"
 test2 for git
